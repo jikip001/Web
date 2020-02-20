@@ -2,7 +2,7 @@
 	
 // ตัวอย่าง www.domain-ro.com
 function base_url() {
-	return "http://localhost/new";
+	return "new/";
 }
 // ชื่อ Title bar
 $ser_name = "Durex Ragnarok Online";
