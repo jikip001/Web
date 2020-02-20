@@ -67,6 +67,3 @@ if(mysqli_num_rows($castle) > 0) {
 </table>
 </body>
 </html>
-<script type="text/javascript" src="../assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="../assets/js/jquery.aos.js"></script>
-<script type="text/javascript" src="../assets/js/durexzstudio.min.js"></script>

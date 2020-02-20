@@ -49,6 +49,3 @@ body {
 				</table>
 			</body>
 		</html>
-		<script type="text/javascript" src="../assets/js/jquery.min.js"></script>
-		<script type="text/javascript" src="../assets/js/jquery.aos.js"></script>
-<script type="text/javascript" src="../assets/js/durexzstudio.min.js"></script>

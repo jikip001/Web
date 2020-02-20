@@ -5,7 +5,6 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title><?php echo $ser_name; ?></title>
-		<link rel="icon" type="image/x-icon" href="<?php echo $baseURL; ?>/favicon.ico" />
 	</head>
 	<body class="bg2" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 		<table width="1200" border="0" align="center">

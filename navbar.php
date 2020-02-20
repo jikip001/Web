@@ -27,7 +27,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.5/sweetalert2.min.css">
 <!-- END CSS -->
 <!-- JS -->
-	<script type="text/javascript" src="<?php echo $baseURL; ?>/assets/js/jquery.min.jss"></script>
+	<script type="text/javascript" src="<?php echo $baseURL; ?>/assets/js/jquery.min.js"></script>
 	<script type="text/javascript" src="<?php echo $baseURL; ?>/assets/js/jquery.aos.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
